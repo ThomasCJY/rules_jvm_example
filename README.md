@@ -1,5 +1,6 @@
 ### Repro Steps
 IDE: Android Studio 2025.2.1 Otter
+
 Plugin: Bazel for Android Studio 14432022
 
 Local build pass:

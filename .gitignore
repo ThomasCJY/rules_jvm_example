@@ -1,0 +1,8 @@
+bazel-*
+.ijwb/
+.aswb/
+.vscode
+**/.DS_Store
+.idea/
+MODULE.bazel.lock
+user.bazelrc
